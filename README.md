@@ -21,11 +21,11 @@ Ao concluir este laboratório, você será capaz de:
 
 Você iniciará com a seguinte infraestrutura:
 
-![Arquitetura inicial]([arquitetura-lab1.png](https://github.com/ItaloRochaj/Amazon-RDS-Oracle-DB/blob/main/projects%20images/Infraestrutura%20Inicial.png)
+![Arquitetura inicial](https://github.com/ItaloRochaj/Amazon-RDS-Oracle-DB/blob/main/projects%20images/Infraestrutura%20Inicial.png)
 
 Após a configuração, sua infraestrutura estará assim:
 
-![Arquitetura final]([arquitetura-lab2.png](https://github.com/ItaloRochaj/Amazon-RDS-Oracle-DB/blob/main/projects%20images/Infraestrutura%20Final.png)
+![Arquitetura final](https://github.com/ItaloRochaj/Amazon-RDS-Oracle-DB/blob/main/projects%20images/Infraestrutura%20Final.png)
 
 
 ## Acessando o AWS Management Console
@@ -96,8 +96,7 @@ Após a configuração, sua infraestrutura estará assim:
    - **Senha:** lab-password
 5. Clique em **Enviar**.
 6. O aplicativo exibirá um **Address Book**, permitindo adicionar, editar e excluir contatos armazenados no RDS.
-7. Interface Web
-   https://github.com/ItaloRochaj/Amazon-RDS-Oracle-DB/blob/main/projects%20images/Interface%20Web%20App.png
+   ![Interface Web](https://github.com/ItaloRochaj/Amazon-RDS-Oracle-DB/blob/main/projects%20images/Interface%20Web%20App.png)
 
 ## Conclusão
     
